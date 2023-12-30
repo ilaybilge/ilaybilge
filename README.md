@@ -1,6 +1,8 @@
-#Welcome to İlay Bilge's Gihtub
+# Welcome to İlay Bilge's Gihtub
 
 I'm a node runner and platform tester with a blockchain and web3 enthusiast.
+
+I have run many nodes  (Aptos Devnet, Bifrost, Bundlr, Crowd Control, Exorde, Empower Chain, Forta, GNO Land, Iron Fish, Humanode, Inery, Kujira, Massa, Minima, Newrl, NuLink, Paloma, QuickSilver, Razor, Rebus, Sei, StaFi, Stratos (Trapos-4 & SDS), Subspace, Teritori, Wormholes) and participate the platform testnets.
 <!--
 **ilaybilge/ilaybilge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
